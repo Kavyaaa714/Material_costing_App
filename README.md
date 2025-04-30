@@ -79,5 +79,3 @@ This app provides a complete Flutter frontend prototype with:
 
 ---
 
-## 🗂️ Folder Structure (Frontend Only)
-
